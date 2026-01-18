@@ -34,6 +34,13 @@ This project demonstrates PyTorch implementation using Google Colab.
 | nn.BatchNorm2d | **Required** | Image Recognition |
 | nn.AdaptiveAvgPool2d| None | Pre-trained Model |
 
+## Loss Functions  
+| Loss Function | Processing Summary | Model Type |
+|---|---|---|
+| MSELoss | Mean Squared Error | Regression |
+| BCELoss | Cross-Entropy Function for Binary Classification | Binary Classification |
+| CrossEntropyLoss | Cross-Entropy Function for Multinominal Classification | Binary / Multinominal Classification |
+
 ## Linear Regression  
 [Linear Regression Task](./LinearRegression/linear_regression.md)  
 
