@@ -15,6 +15,8 @@
 ## Important Topics  
 - The classification model introduces accuracy as an indicator.  
 - Regarding accuracy, implement the “split of training data and validation data.”  
+- We use the BCEWithLogitsLoss function instead of the BCELoss function because the calculation of exponential and logarithmic functions independently tends to produce unstable results.  
+![Difference loss functions](./img/Difference_LossFunctions.png)   
 
 ## Code  
 [Iris Binary Classification](./IrisDataset.ipynb)  
