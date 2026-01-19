@@ -10,7 +10,7 @@
 ## Conceptual Diagram  
 ![Conceptual Diagram](./img/ConceptualDiagram_BinaryClassification.png)  
 - The dimension of the input tensor is 2.  
-- Use "nn.Linear" and "nn.Sigmoid" functions  
+- Use "nn.Linear" function  
 
 ## Important Topics  
 - The classification model introduces accuracy as an indicator.  
