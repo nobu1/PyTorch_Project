@@ -8,6 +8,10 @@
 - Create a simple regression model to predict real estate prices using the RM variable, which represents the average number of rooms.  
 - Create a two-input(RM + LSTAT), one-output model by adding the LSTAT variable representing the low-income rate.  
 
+## Concept Diagram  
+![Conceptual Diagram](./img/ConceptualDiagram_LinearRegression.png)  
+- Use "nn.Linear" function for prediction  
+
 ## Code  
 [Boston Housing Linear Regression](./BostonDataset.ipynb)  
 - This code follows the PyTorch implementation  
