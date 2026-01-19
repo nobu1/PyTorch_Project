@@ -25,7 +25,7 @@ This project demonstrates PyTorch implementation using Google Colab.
 |---|---|---|
 | nn.Linear | **Required** | Regression |
 | nn.Sigmoid | None | Binary Classification |
-| nn.LogSoftmax | None | Multinominal Classification |
+| nn.LogSoftmax | None | Multinomial Classification |
 | nn.ReLU | None | Digit Recognition |
 | nn.Conv2d | **Required** | Image Recognition |
 | nn.MaxPool2d | None | Image Recognition |
@@ -39,7 +39,7 @@ This project demonstrates PyTorch implementation using Google Colab.
 |---|---|---|
 | MSELoss | Mean Squared Error | Regression |
 | BCELoss | Cross-Entropy Function for Binary Classification | Binary Classification |
-| CrossEntropyLoss | Cross-Entropy Function for Multinominal Classification | Binary / Multinominal Classification |
+| CrossEntropyLoss | Cross-Entropy Function for Multinomial Classification | Binary / Multinomial Classification |
 
 ## Linear Regression  
 [Linear Regression Task](./LinearRegression/linear_regression.md)  
