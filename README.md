@@ -47,8 +47,8 @@ This project demonstrates PyTorch implementation using Google Colab.
 ## Binary Classification  
 [Binary Classification Task](./BinaryClassification/binary_classification.md)  
 
-## Multinominal Classification  
-[Multinominal Classification Task](./MultinomialClassification/multinomial_classification.md)  
+## Multinomial Classification  
+[Multinomial Classification Task](./MultinomialClassification/multinomial_classification.md)  
 
 ## Digit Recognition using MNIST  
 [Digit Recognition MNIST](./DigitRecognitionMNIST/digit_recognition_MNIST.md)  
