@@ -23,12 +23,12 @@
 - This code follows the PyTorch implementation  
 
 ![PyTorch Implementation](../img/ImplementationMethodPyTorch.png)  
-    1. Prepare the learning dataset
-    1. Create the inputs and the labels
-    1. Create the prediction function
-    1. Create the loss function
-    1. Create the optimization function
-    1. Calculate the prediction
-    1. Calculate the loss
-    1. Calculate the gradient
-    1. Adjust parameters  
+   1. Prepare the learning dataset
+   1. Create the inputs and the labels
+   1. Create the prediction function
+   1. Create the loss function
+   1. Create the optimization function
+   1. Calculate the prediction
+   1. Calculate the loss
+   1. Calculate the gradient
+   1. Adjust parameters  
