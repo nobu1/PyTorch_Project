@@ -20,7 +20,7 @@
 - Use mini-batch learning when performing gradient calculations.  
 
 ## Code  
-[MNIST Digit Recognition](./IrisDataset_Multinomial.ipynb)  
+[MNIST Digit Recognition](MNIST_Dataset.ipynb)  
 - This code follows the PyTorch implementation  
 ![PyTorch Implementation](../img/ImplementationMethodPyTorch.png)  
     1. Prepare the learning dataset (Loading by dataset, data preprocessing using Transforms, and data generation for mini-batches using the data loader)
