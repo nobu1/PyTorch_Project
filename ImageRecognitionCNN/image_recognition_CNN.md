@@ -19,8 +19,9 @@
 - Implement pooling with nn.MaxPool2d function.  
 
 ## Code  
-[MNIST Digit Recognition](MNIST_Dataset.ipynb)  
+[CNN Image Recognition](./CNN.ipynb)  
 - This code follows the PyTorch implementation  
+
 ![PyTorch Implementation](../img/ImplementationMethodPyTorch.png)  
     1. Prepare the learning dataset
     1. Create the inputs and the labels
