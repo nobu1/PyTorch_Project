@@ -1,5 +1,8 @@
 # Common Function Definitions
 
+# ReadMe
+README = 'Common Library for PyTorch\nAuthor: S. Nobuhara'
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
