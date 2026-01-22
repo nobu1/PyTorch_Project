@@ -18,7 +18,7 @@
 - Both ResNet-18 and VGG-19-BN use the adaptive average pooling (nn.AdaptiveAvgPool2d) function, whose purpose is to create a model that can accept input images regardless of their pixel count.  
 
 ## Code  
-[CNN Image Recognition Updated](./CNN_Tuning.ipynb)  
+[CNN Image Recognition Updated](./Pre-trained_model.ipynb)  
 - This code follows the PyTorch implementation  
 
 ![PyTorch Implementation](../img/ImplementationMethodPyTorch.png)  
