@@ -38,7 +38,7 @@
     - Use "RandomHorizontalFlip" (Randomly flip left and right) and "RandomErasing" (Randomly delete rectangular areas).  
 
 ## Code  
-[CNN Image Recognition Updated](./CNN.ipynb)  
+[CNN Image Recognition Updated](./CNN_Tuning.ipynb)  
 - This code follows the PyTorch implementation  
 
 ![PyTorch Implementation](../img/ImplementationMethodPyTorch.png)  
