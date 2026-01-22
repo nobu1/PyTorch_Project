@@ -30,9 +30,8 @@
 
 1. Batch Normalization  
 ![Conceptual Diagram of batch normalization](./img/ConceptualDiagram_BatchNormalization.png)  
-    - Use nn.BatchNorm2d during convolution processing and nn.BatchNorm1d immediately after the linear function.  
+    - Use nn.BatchNorm2d during convolution processing.  
     - The parameter of nn.BatchNorm2d is the number of channels in the input data.  
-    - The parameter of nn.BatchNorm1d is the number of dimensions in the input data.  
 
 1. Data Augmentation  
     - A technique for increasing the variation of training data by processing input data prior to training.  

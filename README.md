@@ -61,6 +61,3 @@ This project demonstrates PyTorch implementation using Google Colab.
 
 ## Using Pre-trained Model  
 [Pre-trained Model Task](./Pre-trainedModel/pre-trained_model.md)  
-
-## Custom Data Image Recognition  
-[Custom Data Image Recognition Task](./CustomDataImageClassification/custom_data_image_classification.md)  
