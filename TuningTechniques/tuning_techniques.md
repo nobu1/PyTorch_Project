@@ -24,7 +24,7 @@
     - Utilizing Adam, one of the optimization algorithms  
 
 ### Implement measures against overfitting  
-1. Dropout
+1. Dropout  
 ![Conceptual Diagram of dropout](./img/ConceptualDiagram_Dropout.png)  
     - Swap the input elements participating in each learning session to evenly distribute weight information throughout.  
 
